@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pag
+# GitHub Page
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
@@ -20,7 +20,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-## Step 3: Customize your homepage
+## Step 3: 
 
 _Nice work setting the theme! :sparkles:_
 
